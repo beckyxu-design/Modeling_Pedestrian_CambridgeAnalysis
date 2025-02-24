@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "youthcenter",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6491" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "__GUID": "c6c33433-c053-4300-9e26-bc23c8e377b6", "category": "youthcenter", "_to_subway_reach_sr800": 1.0, "_to_subway_g_sr800": 0.57049895913323312, "_to_bluebike_reach_sr800": 5.0, "_to_bluebike_g_sr800": 3.0174816983105632, "_to_bus_reach_sr800": 48.0, "_to_bus_g_sr800": 28.934958832637669 }, "geometry": { "type": "Point", "coordinates": [ 232670.0, 902194.0 ] } },
+{ "type": "Feature", "properties": { "id": 1, "__GUID": "cf799790-0833-44bf-b431-c48f2157196a", "category": "youthcenter", "_to_subway_reach_sr800": 0.0, "_to_subway_g_sr800": 0.0, "_to_bluebike_reach_sr800": 1.0, "_to_bluebike_g_sr800": 0.9151632146754809, "_to_bus_reach_sr800": 11.0, "_to_bus_g_sr800": 7.0141068162839852 }, "geometry": { "type": "Point", "coordinates": [ 228487.0, 903371.0 ] } },
+{ "type": "Feature", "properties": { "id": 2, "__GUID": "34512bed-75bb-4e63-9850-1ddfc46344b5", "category": "youthcenter", "_to_subway_reach_sr800": 1.0, "_to_subway_g_sr800": 0.48960284480177185, "_to_bluebike_reach_sr800": 4.0, "_to_bluebike_g_sr800": 2.2109891770445302, "_to_bus_reach_sr800": 23.0, "_to_bus_g_sr800": 13.7474091653666 }, "geometry": { "type": "Point", "coordinates": [ 232023.0, 901584.0 ] } },
+{ "type": "Feature", "properties": { "id": 3, "__GUID": "9e6c8c74-1261-4ea4-aaf3-6557a510c3da", "category": "youthcenter", "_to_subway_reach_sr800": 0.0, "_to_subway_g_sr800": 0.0, "_to_bluebike_reach_sr800": 4.0, "_to_bluebike_g_sr800": 2.401310461831482, "_to_bus_reach_sr800": 19.0, "_to_bus_g_sr800": 11.769140353719665 }, "geometry": { "type": "Point", "coordinates": [ 230598.0, 904674.0 ] } },
+{ "type": "Feature", "properties": { "id": 4, "__GUID": "d471097f-d067-4fba-b783-b4b03f4f9193", "category": "youthcenter", "_to_subway_reach_sr800": 0.0, "_to_subway_g_sr800": 0.0, "_to_bluebike_reach_sr800": 4.0, "_to_bluebike_g_sr800": 2.2831173302022076, "_to_bus_reach_sr800": 28.0, "_to_bus_g_sr800": 16.888012787057516 }, "geometry": { "type": "Point", "coordinates": [ 233588.0, 902365.0 ] } },
+{ "type": "Feature", "properties": { "id": 5, "__GUID": "42e1c319-a3a0-43ec-9341-120397491c65", "category": "youthcenter", "_to_subway_reach_sr800": 1.0, "_to_subway_g_sr800": 0.65066296625987663, "_to_bluebike_reach_sr800": 6.0, "_to_bluebike_g_sr800": 3.4689378745712287, "_to_bus_reach_sr800": 45.0, "_to_bus_g_sr800": 27.88262857928251 }, "geometry": { "type": "Point", "coordinates": [ 232868.0, 902045.0 ] } }
+]
+}

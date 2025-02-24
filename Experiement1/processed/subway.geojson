@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "subway",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6491" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "__GUID": "34909bbc-5ed0-41d1-80e2-4a0643277106", "subwayname": "MGH", "weight": "25", "category": "subway" }, "geometry": { "type": "Point", "coordinates": [ 235310.701401840720791, 901271.788552008219995 ] } },
+{ "type": "Feature", "properties": { "id": 1, "__GUID": "18884ff6-cead-4ac9-a686-d13e4447dd6c", "subwayname": "Alewife", "weight": "0", "category": "subway" }, "geometry": { "type": "Point", "coordinates": [ 229442.175407010799972, 905062.373093861737289 ] } },
+{ "type": "Feature", "properties": { "id": 2, "__GUID": "9465937b-5b0a-4b5a-86cc-9165e4973dd7", "subwayname": "Harvard", "weight": "25", "category": "subway" }, "geometry": { "type": "Point", "coordinates": [ 231378.174564918677788, 902608.098281332524493 ] } },
+{ "type": "Feature", "properties": { "id": 3, "__GUID": "f16cf6a6-479c-4589-8fe1-036d3cbd66e3", "subwayname": "Central", "weight": "25", "category": "subway" }, "geometry": { "type": "Point", "coordinates": [ 232627.42322017942206, 901743.760872451704927 ] } },
+{ "type": "Feature", "properties": { "id": 4, "__GUID": "0e1bda68-ebeb-4a2c-9163-29a18ffe004c", "subwayname": "Kendall", "weight": "25", "category": "subway" }, "geometry": { "type": "Point", "coordinates": [ 234095.501678443484707, 901405.462597900419496 ] } },
+{ "type": "Feature", "properties": { "id": 5, "__GUID": "e523353b-c64b-47a2-8c2b-5017ee1ec182", "subwayname": "Lechmere", "weight": "0", "category": "subway" }, "geometry": { "type": "Point", "coordinates": [ 234885.481960612698458, 902440.144536870415322 ] } },
+{ "type": "Feature", "properties": { "id": 6, "__GUID": "3214961e-964a-40df-8eaa-8a37295f66d3", "subwayname": "Porter", "weight": "25", "category": "subway" }, "geometry": { "type": "Point", "coordinates": [ 231359.268454753531842, 904279.191707195714116 ] } },
+{ "type": "Feature", "properties": { "id": 7, "__GUID": "e38ee426-6eb7-4849-841b-ed4a9906e913", "subwayname": "Davis", "weight": "25", "category": "subway" }, "geometry": { "type": "Point", "coordinates": [ 231136.089344536681892, 905200.521829953184351 ] } }
+]
+}
