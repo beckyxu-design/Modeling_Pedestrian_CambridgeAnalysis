@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:6491"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "__GUID": "34909bbc-5ed0-41d1-80e2-4a0643277106",
+        "subwayname": "MGH",
+        "weight": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          235310.70140184072,
+          901271.7885520082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "__GUID": "18884ff6-cead-4ac9-a686-d13e4447dd6c",
+        "subwayname": "Alewife",
+        "weight": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          229442.1754070108,
+          905062.3730938617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "__GUID": "9465937b-5b0a-4b5a-86cc-9165e4973dd7",
+        "subwayname": "Harvard",
+        "weight": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          231378.17456491868,
+          902608.0982813325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "__GUID": "f16cf6a6-479c-4589-8fe1-036d3cbd66e3",
+        "subwayname": "Central",
+        "weight": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          232627.42322017942,
+          901743.7608724517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "__GUID": "0e1bda68-ebeb-4a2c-9163-29a18ffe004c",
+        "subwayname": "Kendall",
+        "weight": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          234095.50167844348,
+          901405.4625979004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "__GUID": "e523353b-c64b-47a2-8c2b-5017ee1ec182",
+        "subwayname": "Lechmere",
+        "weight": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          234885.4819606127,
+          902440.1445368704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "__GUID": "3214961e-964a-40df-8eaa-8a37295f66d3",
+        "subwayname": "Porter",
+        "weight": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          231359.26845475353,
+          904279.1917071957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "__GUID": "e38ee426-6eb7-4849-841b-ed4a9906e913",
+        "subwayname": "Davis",
+        "weight": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          231136.08934453668,
+          905200.5218299532
+        ]
+      }
+    }
+  ]
+}

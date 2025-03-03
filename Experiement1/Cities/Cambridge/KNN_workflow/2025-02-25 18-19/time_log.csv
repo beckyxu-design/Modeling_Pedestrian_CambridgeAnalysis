@@ -1,0 +1,19 @@
+,time,flow_name,event,seconds_elapsed,cumulative_seconds
+0,2025-02-25 18:19:40.889672,,"SIMULATION STARTED: VERSION: 0.0.15, RELEASE DATEL 2023-02-16",0.0,0.0
+1,2025-02-25 18:19:40.893594,,"3.12.8 | packaged by conda-forge | (main, Dec  5 2024, 14:25:12) [Clang 18.1.8 ]",0.007227,0.007227
+2,2025-02-25 18:19:40.895023,,"Dependencies: Geopandas:1.0.1, Shapely:2.0.7, Pandas:2.2.2, Numpy:2.2.2, NetworkX:3.4.2",0.0014290000000000006,0.008656
+3,2025-02-25 18:19:41.976227,Buildings_to_Train,"network FIle Loaded, Projection: EPSG:6491",1.081204,1.08986
+4,2025-02-25 18:19:44.152973,Buildings_to_Train,network topology created,2.1767459999999996,3.266606
+5,2025-02-25 18:19:47.832002,Buildings_to_Train,"Buildings file b_Buildings.geojson Loaded, Projection: EPSG:6491",3.6790290000000008,6.945635
+6,2025-02-25 18:19:47.838626,Buildings_to_Train,"Subway file transp_subway.geojson Loaded, Projection: EPSG:6491",0.006623999999999519,6.952259
+7,2025-02-25 18:19:48.516319,Buildings_to_Train,Origins and Destinations Inserted.,0.6776930000000005,7.629952
+8,2025-02-25 18:19:48.875546,Buildings_to_Train,NetworkX Graphs Created.,0.35922699999999974,7.989179
+9,2025-02-25 18:20:42.171564,Buildings_to_Train,accissibility calculated.,53.296018,61.285197
+10,2025-02-25 18:20:42.204247,Buildings_to_Bus,"Bus file transp_bus.geojson Loaded, Projection: EPSG:6491",0.03268300000000579,61.31788
+11,2025-02-25 18:20:42.895785,Buildings_to_Bus,Origins and Destinations Inserted.,0.6915379999999942,62.009418
+12,2025-02-25 18:20:43.336787,Buildings_to_Bus,NetworkX Graphs Created.,0.44100200000000456,62.45042
+13,2025-02-25 18:21:43.329834,Buildings_to_Bus,accissibility calculated.,59.993047,122.443467
+14,2025-02-25 18:21:43.360726,Buildings_to_Bluebike,"Bluebike file transp_bluebike.geojson Loaded, Projection: EPSG:6491",0.03089200000000858,122.474359
+15,2025-02-25 18:21:44.047493,Buildings_to_Bluebike,Origins and Destinations Inserted.,0.686766999999989,123.161126
+16,2025-02-25 18:21:44.365262,Buildings_to_Bluebike,NetworkX Graphs Created.,0.3177689999999984,123.478895
+17,2025-02-25 18:22:42.507013,Buildings_to_Bluebike,accissibility calculated.,58.141751,181.620646

@@ -1,0 +1,4 @@
+Flow_Name,Network_File,Network_Cost,Origin_File,Origin_Name,Origin_Weight,Destination_File,Destination_Name,Destination_Weight,Radius,Beta,KNN_Weight,Plateau,Turns,Turn_Threshold,Turn_Penalty
+Schools_to_Train,path_sidewalk.geojson,Geometric,schools.geojson,schools,Count,transp_subway.geojson,Subway,Count,800,0.001,[6],800,False,0,0
+Schools_to_Bus,path_sidewalk.geojson,Geometric,schools.geojson,schools,Count,transp_bus.geojson,Bus,Count,800,0.001,"[0.75, 0.5, 0.25, 0.25, 0.25]",800,False,0,0
+Schools_to_Bluebike,path_sidewalk.geojson,Geometric,schools.geojson,schools,Count,transp_bluebike.geojson,Bluebike,Count,800,0.001,"[0.25, 0.25]",800,False,0,0
